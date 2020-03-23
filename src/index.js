@@ -5,8 +5,7 @@ const client = new Discord.Client();
 
 const newUsers = new Discord.Collection();
 // TODO if bot joined server than increment botcount
-let botcount = 4;
-let totalusers;
+
 
 
 client.once('ready', () => {
