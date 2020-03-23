@@ -2,6 +2,6 @@
 
 ## for learning/testing purposes
 
-### author: c3a
+## Author: c3a
 
 
