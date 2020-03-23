@@ -8,6 +8,8 @@ const newUsers = new Discord.Collection();
 let botcount = 4;
 let totalusers;
 
+// TODO try code from documentaion and see if it wokrs(use embed-test branch)
+
 
 client.once('ready', () => {
     console.info(`Logged in as ${client.user.tag}!`);
